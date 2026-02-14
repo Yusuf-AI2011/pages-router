@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import { Link, Route, Routes } from "react-router-dom";
-import { RiHeartFill } from "@remixicon/react";
 import Home from "./components/home";
 import About from "./components/about";
 import Contact from "./components/contact";
