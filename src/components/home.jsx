@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { useRef } from "react";
 import ShowResultsHome from "./showResultsHome";
 
 const Home = () => {
