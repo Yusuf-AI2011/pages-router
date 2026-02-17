@@ -127,3 +127,173 @@
   align-items: center;
   background-color: #fff;
 }
+
+.inputs {
+  padding: 50px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.createInput {
+  width: 300px;
+  padding: 5px;
+  outline: none;
+  color: #fff;
+  background-color: #202020;
+  height: 30px;
+  border: 2px solid blueviolet;
+  border-radius: 10px;
+}
+
+.createButton {
+  width: 100px;
+  background-color: #202020;
+  color: #fff;
+  height: 30px;
+  border: 2px solid blueviolet;
+  border-radius: 10px;
+}
+
+.homeContainer {
+  padding: 50px;
+}
+
+.newTasks {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.newTask {
+  width: 400px;
+  padding: 10px;
+  border: 2px solid blueviolet;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.nameTask {
+  width: 200px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.buttonDelete {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #fff;
+  color: red;
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Users {
+  width: 90%;
+  padding: 50px;
+  margin: auto;
+}
+
+.wrapperUsers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.containerUsers {
+  width: 250px;
+  padding: 10px;
+  border: 2px solid blueviolet;
+  color: #fff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  font-size: 20px;
+  gap: 5px;
+}
+
+.infosUsers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.wrapperCarts {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.containerCarts {
+  width: 220px;
+  height: 150px;
+  padding: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  border: 2px solid blueviolet;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.productsCarts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.idCarts {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blueviolet;
+  border-bottom: 2px solid blueviolet;
+}
+
+.wrapperAbouts {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.containerAbouts {
+  width: 300px;
+  padding: 10px;
+  border: 2px solid blueviolet;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+}

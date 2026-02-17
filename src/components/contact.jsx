@@ -2,7 +2,7 @@ import React from "react";
 import { RiTelegram2Line } from "@remixicon/react";
 import { RiGithubFill } from "@remixicon/react";
 
-const contact = () => {
+const Contact = () => {
   return (
     <div className="pageWrapper">
       <header className="header">Contact Page</header>
@@ -31,4 +31,4 @@ const contact = () => {
   );
 };
 
-export default contact;
+export default Contact;
